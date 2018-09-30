@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5A85B76A-B66C-5E20-F1D6-6472286E1A98}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PianoManager.cs">
+    <Files>
+      <File FileName="Assets/PianoKeyScript.cs" Line="28" Column="49" />
+      <File FileName="Assets/PianoManager.cs" Line="7" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/pianoScene.unity
+  isLoaded: 1
+  isActive: 1
